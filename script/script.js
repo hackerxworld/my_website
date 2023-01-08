@@ -1,4 +1,4 @@
-// add class navbarDark on navbar scroll
+
 const header = document.querySelector('.navbar');
 
 window.onscroll = function() {
@@ -10,4 +10,4 @@ window.onscroll = function() {
         header.classList.remove('navbarDark');
     }
 }
-/* display background color black on navbar scroll */
+
